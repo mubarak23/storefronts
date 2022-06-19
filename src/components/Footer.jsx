@@ -31,7 +31,7 @@ function Footer() {
         </div>
         <div className='flex m-3'>
         <LocalPhoneOutlined />
-        <p className='pl-3'>Abuja</p>
+        <p className='pl-3'>+2349056890456</p>
         </div>
         <div className='flex m-3'>
         <EmailOutlined />
