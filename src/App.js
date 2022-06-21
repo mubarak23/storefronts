@@ -1,4 +1,4 @@
-import ProductPage from "./components/ProductPage";
+import ProductPage from "./pages/ProductPage";
 import CategoryPage from "./pages/CategoryPage";
 import Home from "./pages/Home";
 
